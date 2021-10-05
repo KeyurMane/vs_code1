@@ -1,0 +1,19 @@
+/* h1{
+    text-align: center;
+    color: gold;
+    background-color:gray;
+}
+h1 span{
+    margin-left: 15%;
+} */
+
+.heading{
+    text-align: center;
+    color: gold;
+    background-color:gray;
+}
+
+#span{
+margin-left: 200px;
+color: black;
+}
